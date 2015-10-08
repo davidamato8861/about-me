@@ -1,6 +1,6 @@
 #**_About Me_** 
 
-1. My name is David Amato
+ My name is **_David Amato_**
 
 * I play games on my computer
  * Minecraft, Call of Duty
