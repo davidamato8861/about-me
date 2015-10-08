@@ -9,7 +9,10 @@
 
 2. My email is davida8861@hstat.org
 
-###**_High School of Telecommunications Arts and Technology_**
+###**_High School of Telecommunications Arts and Technology_** 
+
+   [Visit HSTAT HERE]:(http://www.hstat.org)
+   
 ####**_School Schedule_**
 ---
 1. Software Engineering
