@@ -11,7 +11,7 @@
 
 ###**_High School of Telecommunications Arts and Technology_** 
 
-   [Visit HSTAT HERE]:(http://www.hstat.org)
+   [Visit HSTAT HERE]:(www.hstat.org)
    
 ####**_School Schedule_**
 ---
